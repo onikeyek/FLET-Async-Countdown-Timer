@@ -53,7 +53,7 @@ It helps you stay productive using three independent timers — **Focus Session*
    pip install -r requirements.txt
 3. Run the app
    ```bash
-   flet run main.py
+   flet run focusflow_Flet-timer.py
 
 ## Author
 Naimot Yekini
