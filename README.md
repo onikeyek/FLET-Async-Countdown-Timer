@@ -6,7 +6,7 @@ It helps you stay productive using three independent timers — **Focus Session*
 
 ---
 
-## 🧠 Features
+## Features
 
 ✅ **Three Independent Timers**
 - **Focus Session (25 minutes)**
@@ -55,9 +55,8 @@ It helps you stay productive using three independent timers — **Focus Session*
    ```bash
    flet run main.py
 
-  **🧑‍💻 Author**
-Naimot Omodolapo Yekini
-Information Technology (IoT Specialization)
-Savonia University of Applied Sciences, Finland
-   
+## Author
+Naimot Yekini
+- Savonia University of Applied Sciences
+- IoT and Cloud Engineering Student
    
